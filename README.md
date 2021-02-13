@@ -1,2 +1,11 @@
 # hello-world
-My First GitHub Repository
+
+Hi All,
+
+This is my first repository creation!!
+
+Regards,
+Venkat
+
+
+
